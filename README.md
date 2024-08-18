@@ -1,5 +1,4 @@
 ## Hi there 👋
-<!--
 **Mahak Gupta**
 
 Here are some things to get me know better:
@@ -11,4 +10,3 @@ Here are some things to get me know better:
 - 📫 How to reach me: mahakgupta10a24@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: recently got an offer from zomato
--->

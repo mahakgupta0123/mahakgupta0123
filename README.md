@@ -1,7 +1,7 @@
 ## Hi there 👋
-**Mahak Gupta**
+**I'm Mahak Gupta**
 
-Here are some things to get me know better:
+Here are some things you should know about me:
 
 - 🔭 I’m currently working on some cool projects
 - 🌱 I’m currently learning Data structures and algorithms & Development  

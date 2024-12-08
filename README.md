@@ -1,5 +1,5 @@
 ## Hi there 👋
-<a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQViGIWGPB0ThklBbBSoODEUlV1yEak6-W63Q&s">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQViGIWGPB0ThklBbBSoODEUlV1yEak6-W63Q&s">
 **I'm Mahak Gupta**
 <hr>
 Here are some things you should know about me:

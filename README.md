@@ -1,7 +1,7 @@
 ## Hi there 👋
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQViGIWGPB0ThklBbBSoODEUlV1yEak6-W63Q&s">
 <br>
-## I'm Mahak Gupta
+<h1>I'm Mahak Gupta</h1>
 <hr>
 Here are some things you should know about me:
 <br>

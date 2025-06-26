@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=mahakgupta0123&label=Profile%20views&color=0e75b6&style=flat" alt="mahakgupta0123" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mahakgupta0123&label=Profile%200views&color=0e75b6&style=flat" alt="mahakgupta0123" /> </p>
 <h1>Hi 👋, I'm Mahak</h1>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQViGIWGPB0ThklBbBSoODEUlV1yEak6-W63Q&s">
 <h3>A passionate frontend developer from India</h3>

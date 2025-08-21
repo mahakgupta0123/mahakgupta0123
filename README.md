@@ -3,7 +3,7 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQViGIWGPB0ThklBbBSoODEUlV1yEak6-W63Q&s">
 <h3>A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **Backend Development**
+- 🌱 I’m currently learning **DevOps and other cool stuff**
 
 - 📫 How to reach me **mahakgupta10a24@gmail.com**
 
